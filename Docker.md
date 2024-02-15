@@ -33,6 +33,7 @@
   * Là một Linux distribution được xây dựng dựa trên musl, BusyBox, và OpenRC.
   * Các tính chất của Alpine: nhẹ, hướng bảo mật, độc lập, phi lợi nhuận.
   * Alpine là một phiên bản nhẹ hơn của Ubuntu.
-# IV. VNC
-  * 
+## IV. VNC
+  * VNC (Virtual Network Computing) là hệ thống chia sẻ màn hình giữa các nền tảng, cho phép điều khiển từ xa một máy tính thông qua một thiết bị khác (sử dụng chuột, bàn phím,... của thiết bị này để điều khiển máy tính khác).
+  * VNC hoạt động theo mô hình client/server. VNC Server được cài đặt ở remote computer, tức máy tính mà chúng ta muốn điều khiển từ xa, và VNC Client (còn được gọi là VNC Viewer) được cài đặt ở máy tính mà chúng ta muốn sử dụng để điều khiển máy tính khác. Khi viewer được quyển kết nối với server, server sẽ tạo ra bản copy màn hình của remote computer cho viewer điều khiển. Ngoài việc thao tác với bản copy màn hình bằng chuột, ta còn có thể thao tác qua bàn phím. Do đó, ta có toàn quyền điều khiển remote computer.
 
