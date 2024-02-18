@@ -25,6 +25,8 @@
   * Là một  discontinued, Unix-like OS, với nhân riêng và tệp người dùng riêng biệt. Được phát triển dựa trên Research Unix.
   * BSD bao gồm các phiên bản: FreeBSD, OpenBSD, NetBSD, DragonFly BSD.
 4. *nix: là thuật ngữ viết tắt chỉ những Unix-like OS.
+    
+MacOS thuộc *nix
 ## III. Alpine vs Ubuntu
 1. Ubuntu: 
   * Là một hệ điều hành mã nguồn mở, Unix-like, được xây dựng dựa trên nhân Linux (Linux distribution).
